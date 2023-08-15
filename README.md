@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maicol Orejuela</h1>
-<h3 align="center">I like backend and frontend development, I want to grow professionally, learn and deepen new technologies and have fun :smile:</h3>
+<h3 align="center">I am passionate about both backend and frontend development. My goal is to continuously grow professionally, expand my knowledge of new technologies, and most importantly, have fun while doing it! 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maicolev&label=Profile%20views&color=0e75b6&style=flat" alt="maicolev" /> </p>
 

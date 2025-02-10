@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Asesoftware company**
 
-- 🌱 I’m currently delving **Spring boot and angular**
+- 🌱 I’m currently delving **Spring boot, angular and AWS** technologies
 
 - 👨‍💻 All of my projects are available at [Loading ...%](Loading ...%)
 

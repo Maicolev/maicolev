@@ -23,11 +23,11 @@
 
 <h4 align="left">Intermediate level to dev</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,jenkins,mongo,markdown,gradle&perline=10)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,jenkins,mongo,markdown,gradle,docker&perline=10)](https://skillicons.dev) 
 
 <h4 align="left">Basic and learning to dev</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,nestjs,angular,bootstrap,html,css,mongo,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,nestjs,angular,bootstrap,html,css,mongo&perline=10)](https://skillicons.dev)
 
 
 <h4 align="left">At some point use</h4>
